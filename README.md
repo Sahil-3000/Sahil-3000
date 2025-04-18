@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on web devlopement
 - 📫 How to reach?: danksahil895@gmail.com
-- 😄 Pronouns: He/His
 
 <!---
 Sahil-3000/Sahil-3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
